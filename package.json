@@ -1,0 +1,33 @@
+{
+  "name": "wonderbill",
+  "version": "1.0.0",
+  "description": "Home Technical Task for Wonder Bill",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio wdio.conf.js"
+  },
+  "author": "Deepanshu Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.11.5",
+    "@babel/core": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/register": "^7.11.5",
+    "@wdio/allure-reporter": "^6.4.5",
+    "@wdio/cli": "^6.4.5",
+    "@wdio/cucumber-framework": "^6.4.3",
+    "@wdio/local-runner": "^6.4.5",
+    "@wdio/selenium-standalone-service": "^6.4.0",
+    "allure-commandline": "^2.13.0",
+    "chai": "^4.2.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {
+    "@wdio/dot-reporter": "^6.4.0",
+    "@wdio/junit-reporter": "^6.4.0",
+    "@wdio/spec-reporter": "^6.4.0",
+    "@wdio/sync": "^6.4.5",
+    "wdio-cucumber-reporter": "0.0.2",
+    "wdio-mochawesome-reporter": "^4.0.0"
+  }
+}
