@@ -1,0 +1,12 @@
+node_modules/
+report/
+logs/
+.DS_Store
+.idea
+*.iml
+**/*.jar
+.project
+.classpath
+.settings/
+.vscode
+*.sublime-project
