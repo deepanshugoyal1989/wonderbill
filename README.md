@@ -29,6 +29,7 @@ This project uses
 - Install the latest node version
 - Install the latest Chrome Browser version
 - Install the latest Firefox Browser version
+- Install the latest java version
 - Install the latest github version
 
 ## How does it work
